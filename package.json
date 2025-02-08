@@ -12,7 +12,7 @@
 	"license": "MIT",
 	"description": "",
 	"dependencies": {
-		"esbuild": "^0.24.2",
+		"esbuild": "^0.25.0",
 		"espruino": "^0.1.57"
 	},
 	"devDependencies": {}
